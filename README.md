@@ -29,4 +29,4 @@ This project is implemented on the ESP32 platform using low-level DAC and ADC re
 
 ## 🎥 Demo
 
-[!(https://img.youtube.com/vi/Q-3gZDLPwIs/hqdefault.jpg)](https://youtube.com/shorts/Q-3gZDLPwIs)
+[![Watch the singing game here](https://img.youtube.com/vi/Q-3gZDLPwIs/hqdefault.jpg)](https://youtu.be/Q-3gZDLPwIs)
