@@ -1,4 +1,4 @@
-# 🌿 Singing Game (ESP32) (C code)
+# 🌿 Singing Game (ESP32) Embedded C
 
 A small and mindful game where you face a simple challenge: match the frequency of a tone using your voice, a whistle, or another sound source. The board listens. If your voice is true, you win. If not, try again.
 
